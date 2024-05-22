@@ -2,7 +2,7 @@
 """Update version of Lect5
 Created on Tue Jan 26 18:17:15 2021
 
-@author: pathouli
+
 """
 
 
